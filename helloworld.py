@@ -69,4 +69,5 @@ a = "Nous allons maintenant essayer \nplusieurs possibilités d' \"introduire\" 
 
 print(a)
 
+#Rajout de commentaire pour MAJ
 
